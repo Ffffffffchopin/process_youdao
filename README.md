@@ -1,1 +1,3 @@
 # process_youdao
+
+一个简单的python脚本，用来将网易有道词典导出的txt文件转换为Anki可以导入制成单词卡的格式
